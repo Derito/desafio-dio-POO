@@ -6,7 +6,8 @@ public class Curso {
     private String descricao;
     private String titulo;
 
-
+    public Curso() {
+    }
     public int getCargaHoraria() {
         return cargaHoraria;
     }

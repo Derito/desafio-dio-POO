@@ -9,7 +9,10 @@ public class Mentoria {
    private  String descricao;
    private LocalDate data;
 
-   public String getTitulo() {
+ 
+   public Mentoria() {
+}
+public String getTitulo() {
     return titulo;
 }
 public void setTitulo(String titulo) {
