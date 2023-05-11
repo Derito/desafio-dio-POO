@@ -6,7 +6,7 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 
 
-public class Bootecamp {
+public class Bootcamp {
 
     private String nome;
     private String descricao;
@@ -66,7 +66,7 @@ public class Bootecamp {
             return false;
         if (getClass() != obj.getClass())
             return false;
-        Bootecamp other = (Bootecamp) obj;
+        Bootcamp other = (Bootcamp) obj;
         if (nome == null) {
             if (other.nome != null)
                 return false;
