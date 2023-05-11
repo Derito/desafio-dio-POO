@@ -1,7 +1,7 @@
-## Getting Started
+## PROJECTO PLATAFORMA DE CURSOS DIO
 
 Sejam bem-vindos ao desafio: APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.
-O desafio em causa é parte de uma formação OO oferecida pela DIO. Estendesafio visa co-criar a plataforma de cursos online DIGITAL INNOVATION ONE 💛🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
+O desafio em causa é parte de uma formação OO oferecida pela DIO. Estendesafio visa co-criar a plataforma de cursos online " DIGITAL INNOVATION ONE" e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
 💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java. 
 
 ## Folder Structure
