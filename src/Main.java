@@ -1,3 +1,5 @@
+import java.time.LocalDate;
+
 import ao.dio.desafio.dominio.Curso;
 import ao.dio.desafio.dominio.Mentoria;
 
@@ -6,8 +8,8 @@ public class Main {
        // instanciando a classe Curso
 
        Curso curso = new Curso();
-       curso.setTitulo("Curso Java OO");
-       curso.setDescricao("Descrição do curso Java OO");
+       curso.setTitulo(" Curso Java OO ");
+       curso.setDescricao(" Descrição do curso Java OO ");
        curso.setCargaHoraria(4);
 
        Curso curso2 = new Curso();
@@ -16,12 +18,19 @@ public class Main {
        curso2.setDescricao("Descrição do curso C**");
        curso2.setCargaHoraria(8);
 
-       System.out.println(curso);
-       System.out.println(curso2);
+     //Polimorfismo
+
+     //Conteudo conteudo = new Curso();
        
        Mentoria mentoria = new Mentoria();
 
-       mentoria.setTitulo(null);
+       mentoria.setTitulo("mentótia de Java");
+       mentoria.setDescricao("Descrição da mentória Java.");
+       mentoria.setData(LocalDate.now());
+
+       System.out.println(curso);
+       System.out.println(curso2);
+       System.out.println(mentoria);
 
     }
 }
